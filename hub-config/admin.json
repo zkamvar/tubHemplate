@@ -3,14 +3,14 @@
     "name": "Template Forecast Hub",
     "maintainer": "Consortium of Infectious Disease Modeling Hubs",
     "contact": {
-        "name": "Joe Bloggs",
-        "email": "j.bloggs@cidmh.com"
+        "name": "Zhian N. Kamvar",
+        "email": "zkamvar@gmail.com"
     },
     "repository": {
         "host": "github",
-        "owner": "hubverse-org",
-        "name": "hubTemplate"
+        "owner": "zkamvar",
+        "name": "tubHemplate"
     },
     "file_format": ["csv", "parquet"],
-    "timezone": "US/Eastern"
+    "timezone": "US/Pacific"
 }
